@@ -1,0 +1,15 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local design documents and private data
+/docs/
+/local/
+/private/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
