@@ -2,7 +2,8 @@
 .DS_Store
 Thumbs.db
 
-# Local design documents and private data
+# Local agent instructions, design documents, and private data
+/AGENTS.md
 /docs/
 /local/
 /private/
