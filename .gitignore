@@ -13,3 +13,7 @@ Thumbs.db
 !.env.example
 *.key
 *.pem
+
+# Python bytecode
+__pycache__/
+*.py[cod]
